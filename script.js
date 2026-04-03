@@ -19,3 +19,5 @@ console.log(bookPublisher);
 bookPublisher = bookName;
 console.log(bookPublisher);
 console.log(bookName);
+book_Publisher = bookPublisher;
+console.log(book_Publisher);
