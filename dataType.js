@@ -15,3 +15,19 @@ console.log(typeof temp);
 
 let sum = pi + prime;
 console.log(sum);
+
+// BigInt
+
+// 2**53 -1 = 9007199254740991
+
+let limit = 9007199254740991n;
+
+console.log(limit+1n);
+console.log(limit+2n);
+console.log(limit+3n);
+
+
+// task
+
+let bignum = 12345678910n;
+console.log(bignum+2024n);
