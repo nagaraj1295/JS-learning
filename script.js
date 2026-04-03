@@ -10,4 +10,12 @@ author = "Naga";
 bookPublisher = "NagaCreation";
 bookPart = 2;
 
-console.log(author + bookPublisher + bookPart);
+console.log(author, "\n" , bookPublisher, "\n", bookPart);
+
+bookPublisher = "Dell";
+
+console.log(bookPublisher);
+
+bookPublisher = bookName;
+console.log(bookPublisher);
+console.log(bookName);
