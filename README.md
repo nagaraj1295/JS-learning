@@ -1,3 +1,3 @@
 # JS-learning
 
-yes
+let is variable keyword
