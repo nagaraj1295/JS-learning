@@ -5,3 +5,9 @@ console.log("Hello, JS");
 let bookName;
 bookName = "Horry potter";
 
+let author,bookPublisher, bookPart;
+author = "Naga";
+bookPublisher = "NagaCreation";
+bookPart = 2;
+
+console.log(author + bookPublisher + bookPart);
