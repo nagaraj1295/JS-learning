@@ -29,9 +29,16 @@ console.log(student)
 
 // const
 const name1 = "Naga";
-name1 = "Nagaraj";
+// name1 = "Nagaraj";
 console.log(name1);
 // const value not change.
 
 const NAME2 = "Nagaraj";
 console.log(NAME2);
+
+const WHITE_COLOR = "#ffff";
+const BLACK_COLOR = "#0000";
+const DATE_OF_BIRTH = "01-02-1995";
+console.log(DATE_OF_BIRTH);
+
+// const fixed values
